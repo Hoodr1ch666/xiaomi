@@ -660,9 +660,6 @@ align-items: center;
    .form__bike{
       bottom: 50px;
    }
-   /* .form__bike{
-      right: 0; 
-   } */
    .menu__list{
       justify-content: space-between;
    }
